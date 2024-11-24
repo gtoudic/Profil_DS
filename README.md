@@ -8,17 +8,17 @@
   - **Machine Learning**, Deep Learning, NLP, Computer Vision
 
 - **Compétences techniques** :  
-   -**Python** (Pandas, Scikit Learn, TensorFlow, Keras, Hugging Face)
-   -**SQL**
-   -SAS
-   -JupyterLab, Google Colaboratory, Visual Studio Code
-   -**Git**, GitHub
-   -**Cloud** (Azure, AWS)
-   -FastApi, Streamlit, Docker, MLflow, GitHub Actions
-   -**Spark**, Hadoop 
-   -Linux
-   -Power BI
-   -Excel
+   - **Python** (Pandas, Scikit Learn, TensorFlow, Keras, Hugging Face)
+   - **SQL**
+   - SAS
+   - JupyterLab, Google Colaboratory, Visual Studio Code
+   - **Git**, GitHub
+   - **Cloud** (Azure, AWS)
+   - FastApi, Streamlit, Docker, MLflow, GitHub Actions
+   - **Spark**, Hadoop 
+   - Linux
+   - Power BI
+   - Excel
 
 ## 💼 Projets professionnels réalisés en 2024 - formation Data Scientist OpenClassrooms 
 
