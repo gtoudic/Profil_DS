@@ -78,8 +78,8 @@
 
 ### Projet 10 **Cadrez un projet IA**
    - Mettre en place la méthode de gestion de projet agile Scrum : élaborer un product backlog et un planning des sprints, dimensionner le projet (équipe/compétences, coûts, notamment l'infrastructure Azure)
-   -Estimer les gains attendus et la rentabilité
-   -Gérer les risques et les enjeux légaux et éthiques liés aux données personnelles et à l'Intelligence Artificielle : identifier, évaluer la criticité et mitiger les risques du projet
+   - Estimer les gains attendus et la rentabilité
+   - Gérer les risques et les enjeux légaux et éthiques liés aux données personnelles et à l'Intelligence Artificielle : identifier, évaluer la criticité et mitiger les risques du projet
 
 
 
